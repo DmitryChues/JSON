@@ -1,3 +1,7 @@
-1:1
-2:2
-3:3
+{
+	'first_name':'Dmitry',
+	'last_name':'Chues',
+	'age':23,
+	'pets':3,
+	'desired_salary':'5000$'
+}
